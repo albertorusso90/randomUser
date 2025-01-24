@@ -54,7 +54,7 @@ This app follows **Clean Architecture** to separate the concerns of different la
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/randomuser-app.git
+   git clone https://github.com/albertorusso90/randomUser
    ```
 2. Open the project in **Android Studio**.
 3. Build the project and run the app on either an emulator or a physical device.
